@@ -48,7 +48,7 @@ This dashboard helps to:
 (Add your dashboard screenshot here)
 
 ```md
-![Dashboard Preview](dashboard-image.png)
+![Dashboard Preview](MS_Dashboard.png)
 ```
 
 ---
