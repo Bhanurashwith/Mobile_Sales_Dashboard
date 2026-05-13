@@ -45,11 +45,8 @@ This dashboard helps to:
 ---
 
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
 
-```md
 ![Dashboard Preview](MS_Dashboard.png)
-```
 
 ---
 
